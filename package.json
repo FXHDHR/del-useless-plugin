@@ -1,0 +1,19 @@
+{
+  "name": "del-useless-plugin",
+  "version": "1.0.0",
+  "description": "删除无用文件的webpack插件",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "删除无用文件",
+    "plugin"
+  ],
+  "author": "fxh",
+  "license": "ISC",
+  "dependencies": {
+    "glob": "^7.1.7"
+  }
+}
